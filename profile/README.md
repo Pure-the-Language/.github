@@ -1,1 +1,1 @@
-Pure is a C# based scripting language.📺
+Pure is a C# based scripting environment.📺
